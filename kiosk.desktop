@@ -1,0 +1,3 @@
+[Desktop Entry]
+Name=Kiosk
+Exec=/opt/kiosk/kiosk-desktop.sh
